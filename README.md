@@ -44,7 +44,7 @@ Two type of plug-login are there
               
           2. then use directive with that and pass two more paramter div-id (provide div Id which you want to include your login html)    and html-name (provide html name with your path).
           
-              <div id="logintest" login-form div-id="logintest" htmlName="htmlTemplates/login.html"></div>
+              <div id="logintest" login-form div-id="logintest" html-name-with-path="htmlTemplates/login.html"></div>
               
      -------------------------------------------------------------------------------------------------------------------------------
     
